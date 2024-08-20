@@ -1,0 +1,1 @@
+This is a Rubix Cube animation made entirely in Blender. The animation can be viewed [here](https://github.com/M0HID/rubix-cube/blob/main/output.mp4) and the .blend file can be found [here](https://github.com/M0HID/rubix-cube/blob/main/rubix%20cube.blend)
